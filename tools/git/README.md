@@ -10,6 +10,7 @@ git教程
 - 可视化的git简明教程[^5]。
 - git所有命令列表[^6]。
 - 不同语言的git书籍[^7]。
+- 狐七的个人博客：GIT实操手册. http://blog.hu77.top/others/Git/01.html.
 
 
 

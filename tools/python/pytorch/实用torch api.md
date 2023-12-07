@@ -1,0 +1,24 @@
+torch
+
+- numel
+- tensor
+- sparse_coo_tensor. 坐标形式的稀疏tensor
+- sparse_csr_tensor. 按行压缩的稀疏tensor
+- sparse_csc_tensor. 按列压缩的稀疏tensor
+- asarray
+- as_tensor
+- from_numpy
+- zeros
+- zero_like
+- ones
+- ones_like
+- arange
+- linspace
+- logspace
+- eye
+- empty
+- empty_like
+- full
+- full_like
+- complex
+- polar

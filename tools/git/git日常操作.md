@@ -4,6 +4,20 @@
 git push -d <origin> <branch>
 ```
 
+# 删除本地分支
+
+确保完全合并后删除：
+
+```shell
+git branch -d <branch>
+```
+
+强制删除：
+
+```shell
+git branch -D <branch>
+```
+
 # 分支重命名
 
 ```shell

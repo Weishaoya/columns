@@ -22,6 +22,7 @@ $ sudo su
 ```
 
 ```shell
+$ lspci | grep NVIDIA
 02:00.0 3D controller: NVIDIA Corporation Device 2235 (rev a1)
 03:00.0 3D controller: NVIDIA Corporation Device 2235 (rev a1)
 83:00.0 3D controller: NVIDIA Corporation Device 2235 (rev a1)

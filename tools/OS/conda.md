@@ -12,7 +12,7 @@ bash Miniconda3-latest-Linux-x86_64.sh
 
 ## 安装 anaconda 并激活
 
-> 在不能访问外网得情况下可以考虑安装 anaconda ，curl 可以通过代理下载。下面以 Anaconda3-2023.09-0-Linux-x86_64.sh 为例。最新版可在 https://www.anaconda.com/download#downloads 下载
+> 在不能访问外网的情况下可以考虑安装 anaconda ，curl 可以通过代理下载。下面以 Anaconda3-2023.09-0-Linux-x86_64.sh 为例。最新版可在 https://www.anaconda.com/download#downloads 下载
 
 ``` shell
 curl -O https://repo.anaconda.com/archive/Anaconda3-2023.09-0-Linux-x86_64.sh
@@ -88,4 +88,3 @@ conda env list
 ```shell
 conda env remove -n ENV_NAME
 ```
-
